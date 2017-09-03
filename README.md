@@ -1,3 +1,7 @@
+# Why was this project created
+Humans had difficulty using pivot table with react js as depicted in https://github.com/nicolaskruchten/pivottable/issues/766 or https://github.com/nicolaskruchten/pivottable/issues/558 , this project shows to use the power of pivottable with react js. 
+Recommended editor is VS Code
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
